@@ -22,7 +22,7 @@ python tech2attacknav.py -i input_file.txt -n ActorName
 
 <img src="assets/1.gif" alt="Select & copy list of technique ID" width="600"/>
 
-2. Paste into input.txt file in same directory as the script
+2. Paste into ttps.txt file in same directory as the script
 
 <img src="assets/2.gif" alt="Paste into input.txt file in same directory as the script" width="600"/>
 
