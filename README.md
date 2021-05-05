@@ -43,6 +43,4 @@ python tech2attacknav.py -i input_file.txt -n ActorName
 
 - Add ability to parse subtechnique IDs
 - Add webscraping functionality
-- Add Github issue template
-- Add contribution guidance
-- Create Pytest tests
+- Create tests
