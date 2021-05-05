@@ -1,6 +1,6 @@
 # Tech2AttackNav
 ## About The Project
-A Python CLI utility for quickly converting a list or text file of MITRE ATT&CK technique IDs to a MITRE ATT&CK Navigator layer .JSON file.
+A Python CLI utility for quickly converting a list or text file of MITRE ATT&CK parent technique IDs to a MITRE ATT&CK Navigator layer .JSON file.
 
 - Free software: MIT license
 ## Getting Started
@@ -38,3 +38,8 @@ python tech2attacknav.py -i input_file.txt -n ActorName
 6. Select the result.json file in the same directory as the script
 
 <img src="assets/4.gif" alt="Upload .json layer file" width="600"/>
+
+## Roadmap
+
+- Add ability to parse subtechnique IDs
+- Add webscraping functionality
