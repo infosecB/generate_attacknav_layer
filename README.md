@@ -6,7 +6,7 @@ A Python CLI utility for quickly converting a list or text file of MITRE ATT&CK 
 ## Getting Started
 ### Installation
 #### Option A: Git
-```git clone ```
+```git clone https://github.com/infosecB/tech2attacknav.git```
 
 #### Option B: Download .zip
 
