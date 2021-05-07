@@ -10,7 +10,7 @@ Clone the repository using Git:
 ```git clone https://github.com/infosecB/tech2attacknav.git```
 
 #### Option B: Download .zip
-Download the repository using the Github web UI:
+Manually download and unzip the repository:
 https://github.com/infosecB/tech2attacknav/archive/refs/heads/main.zip
 
 ### Usage
