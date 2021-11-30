@@ -1,4 +1,5 @@
-# Tech2AttackNav
+# generate_attacknav_layer
+
 ## About The Project
 A Python CLI utility for quickly converting a list or text file of MITRE ATT&CK parent technique IDs to a MITRE ATT&CK Navigator layer .JSON file.
 
